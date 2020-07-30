@@ -8,7 +8,7 @@ I am currently employed by [Truvy](https://truvy.com), but I'm always working on
 
 Tourmaline is a batteries (and kitchen sink) included framework for building Telegram bots with Crystal. It includes full support for the bot API, as well as a number of helpful abstractions, a FSM, menu builders, and more. You can learn more about it on the project's official website, https://tourmaline.dev.
 
-![tourmaline website](./images/tourmaline-website.png)
+![tourmaline website](./tourmaline-screenshot.png)
 
 #### Marionette
 
