@@ -8,8 +8,6 @@ I am currently employed by [Truvy](https://truvy.com), but I'm always working on
 
 Tourmaline is a batteries (and kitchen sink) included framework for building Telegram bots with Crystal. It includes full support for the bot API, as well as a number of helpful abstractions, a FSM, menu builders, and more. You can learn more about it on the project's official website, https://tourmaline.dev.
 
-![tourmaline website](./tourmaline-screenshot.png)
-
 #### Marionette
 
 As with many of my personal projects, this one was written in Crystal. I tend to prefer Crystal for personal projects because of it's beautiful syntax, easy concurrency, and relative overall speed. Marionette is a browser automation tool written from the ground up to support just about everything that Selenium Webdriver does, but without the Java overhead. Check it out [here](https://github.com/watzon/marionette).
