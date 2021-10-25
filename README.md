@@ -2,7 +2,7 @@
 
 I'm a software developer with a passion for open source, new technologies, and learning. If you're here, browsing my Github portfolio you'll probably notice a number of different languages in use, including lesser known ones like [Crystal](https://crystal-lang.org), [Zig](https://ziglang.org), and [Nim](https://nim-lang.org). This is because I love experimenting with new technologies that have the possibility of improving my performance or general happiness as a developer.
 
-I am currently employed by [Truvy](https://truvy.com), but I'm always working on side projects in my free time. Here are a few that I'm especially proud of:
+I am always working on side projects in my free time. Here are a few that I'm especially proud of:
 
 #### Tourmaline
 
