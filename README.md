@@ -15,7 +15,3 @@ As with many of my personal projects, this one was written in Crystal. I tend to
 **More to come...**
 
 Thanks for checking out my profile! If you find any of my projects useful, please consider [sponsoring me](https://github.com/sponsors/watzon)! I've spent thousands of hours on my open source projects, and every little contribution matters.
-
-**Socials**
-
-<a rel="me" href="https://uncorking.me/@watzon">Mastodon</a>
