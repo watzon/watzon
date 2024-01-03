@@ -15,3 +15,8 @@ As with many of my personal projects, this one was written in Crystal. I tend to
 **More to come...**
 
 Thanks for checking out my profile! If you find any of my projects useful, please consider [sponsoring me](https://github.com/sponsors/watzon)! I've spent thousands of hours on my open source projects, and every little contribution matters.
+
+## Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=watzon&layout=compact&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000&text_color=c3c6ce&icon_color=4e64f7&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=watzon&layout=compact&hide_border=true&show_icons=true&title_color=c3c6ce&text_color=9f9f9f&bg_color=00000000&icon_color=00000000&langs_count=8&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
