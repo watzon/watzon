@@ -4,6 +4,14 @@ I'm a software developer with a passion for open source, new technologies, and l
 
 I am always working on side projects in my free time. Here are a few that I'm especially proud of:
 
+#### Paste69
+
+Paste69 ([0x45.st](https://0x45.st)) is an ultra-simple API based paste bin heavily based on [0x0](https://git.0x0.st/mia/0x0), but written in Crystal.
+
+#### Inkify
+
+Inkify ([inkify.0x45.st](https://inkify.0x45.st)) is an API based code-to-image service similar to carbon.now.sh. It's written in Rust and entirely free to use.
+
 #### Tourmaline
 
 Tourmaline is a batteries (and kitchen sink) included framework for building Telegram bots with Crystal. It includes full support for the bot API, as well as a number of helpful abstractions, a FSM, menu builders, and more. You can learn more about it on the project's official website, https://tourmaline.dev.
@@ -14,7 +22,7 @@ As with many of my personal projects, this one was written in Crystal. I tend to
 
 **More to come...**
 
-Thanks for checking out my profile! If you find any of my projects useful, please consider [sponsoring me](https://github.com/sponsors/watzon)! I've spent thousands of hours on my open source projects, and every little contribution matters.
+Thanks for checking out my profile! If you want to learn more feel free to paruse my repo or visit [my website](https://watzon.tech).
 
 ## Stats
 
