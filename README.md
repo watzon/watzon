@@ -35,7 +35,13 @@
 </p>
 
 ## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [[Meet PostPilot]](/blog/meet-postpilot)- [[Rediscovering PHP: A Modern Alternative to JavaScript Fatigue]](/blog/rediscovering-php-a-modern-alternative-to-javascript-fatigue)- [[Rolling my own pastebin]](/blog/rolling-my-own-pastebin)- [[Using n8n to create a simple Mastodon bot]](/blog/using-n8n-to-create-a-simple-mastodon-bot)- [[Facilitating Postgres database migration]](/blog/facilitating-postgres-database-migration)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Meet PostPilot](/blog/meet-postpilot)
+- [Rediscovering PHP: A Modern Alternative to JavaScript Fatigue](/blog/rediscovering-php-a-modern-alternative-to-javascript-fatigue)
+- [Rolling my own pastebin](/blog/rolling-my-own-pastebin)
+- [Using n8n to create a simple Mastodon bot](/blog/using-n8n-to-create-a-simple-mastodon-bot)
+- [Facilitating Postgres database migration](/blog/facilitating-postgres-database-migration)
+<!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
 <div align="center">
