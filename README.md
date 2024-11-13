@@ -38,11 +38,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Pastebin in Go for Fun and Profit](/blog/building-a-pastebin-in-go-for-fun-and-profit)
 - [Meet PostPilot](/blog/meet-postpilot)
 - [Rediscovering PHP: A Modern Alternative to JavaScript Fatigue](/blog/rediscovering-php-a-modern-alternative-to-javascript-fatigue)
 - [Rolling my own pastebin](/blog/rolling-my-own-pastebin)
 - [Using n8n to create a simple Mastodon bot](/blog/using-n8n-to-create-a-simple-mastodon-bot)
-- [Facilitating Postgres database migration](/blog/facilitating-postgres-database-migration)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
