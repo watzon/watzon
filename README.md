@@ -1,30 +1,46 @@
-### Hi, I'm Chris Watson 👋
+<div align="center">
+  <h1>👋 Hey, I'm Chris Watson</h1>
+  <p>
+    <a href="https://watzon.tech">Website</a> •
+    <a href="https://watzon.tech/resume">Resume</a> •
+    <a href="https://watzon.tech/blog">Blog</a>
+  </p>
+  <h3>Currently Looking for New Opportunities!</h3>
+</div>
 
-I'm a software developer with a passion for open source, new technologies, and learning. If you're here, browsing my Github portfolio you'll probably notice a number of different languages in use, including lesser known ones like [Crystal](https://crystal-lang.org), [Zig](https://ziglang.org), and [Nim](https://nim-lang.org). This is because I love experimenting with new technologies that have the possibility of improving my performance or general happiness as a developer.
+## 🛠️ Current Tech Stack
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 
-I am always working on side projects in my free time. Here are a few that I'm especially proud of:
+## 🤝 Let's Connect
+<p>
+  <a href="https://watzon.tech">
+    <img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:cawatson1993@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://bsky.app/profile/watzon2.bsky.social">
+    <img src="https://img.shields.io/badge/-Bluesky-00A3E0?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
+  </a>
+  <a href="https://www.tumblr.com/byte-my-ascii">
+    <img src="https://img.shields.io/badge/-Tumblr-36465D?style=for-the-badge&logo=tumblr&logoColor=white" alt="Tumblr" />
+  </a>
+  <a href="https://www.linkedin.com/in/watzon1993/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-#### Paste69
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- This section will be automatically updated using GitHub Actions -->
+<!-- BLOG-POST-LIST:END -->
 
-Paste69 ([0x45.st](https://0x45.st)) is an ultra-simple API based paste bin heavily based on [0x0](https://git.0x0.st/mia/0x0), but written in Crystal.
-
-#### Inkify
-
-Inkify ([inkify.0x45.st](https://inkify.0x45.st)) is an API based code-to-image service similar to carbon.now.sh. It's written in Rust and entirely free to use.
-
-#### Tourmaline
-
-Tourmaline is a batteries (and kitchen sink) included framework for building Telegram bots with Crystal. It includes full support for the bot API, as well as a number of helpful abstractions, a FSM, menu builders, and more. You can learn more about it on the project's official website, https://tourmaline.dev.
-
-#### Marionette
-
-As with many of my personal projects, this one was written in Crystal. I tend to prefer Crystal for personal projects because of it's beautiful syntax, easy concurrency, and relative overall speed. Marionette is a browser automation tool written from the ground up to support just about everything that Selenium Webdriver does, but without the Java overhead. Check it out [here](https://github.com/watzon/marionette).
-
-**More to come...**
-
-Thanks for checking out my profile! If you want to learn more feel free to paruse my repo or visit [my website](https://watzon.tech).
-
-## Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=watzon&layout=compact&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000&text_color=c3c6ce&icon_color=4e64f7&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=watzon&layout=compact&hide_border=true&show_icons=true&title_color=c3c6ce&text_color=9f9f9f&bg_color=00000000&icon_color=00000000&langs_count=8&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=watzon&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=watzon&theme=dark" alt="GitHub Streak" />
+</div>
