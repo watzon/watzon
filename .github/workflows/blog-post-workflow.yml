@@ -14,4 +14,3 @@ jobs:
         with:
           feed_list: "https://watzon.tech/blog/rss.xml"
           max_post_count: 5
-          template: "- [[$title]]($url)" 
