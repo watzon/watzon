@@ -45,8 +45,5 @@
 - [Using n8n to create a simple Mastodon bot](/blog/using-n8n-to-create-a-simple-mastodon-bot)
 <!-- BLOG-POST-LIST:END -->
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=watzon&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=watzon&theme=dark" alt="GitHub Streak" />
-</div>
+## 📊 Commit History
+![Commit History](https://raw.githubusercontent.com/watzon/watzon/refs/heads/master/profile-3d-contrib/profile-night-rainbow.svg)
