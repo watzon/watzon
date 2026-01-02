@@ -38,11 +38,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Pastebin in Go for Fun and Profit](/blog/building-a-pastebin-in-go-for-fun-and-profit)
-- [Meet PostPilot](/blog/meet-postpilot)
-- [Rediscovering PHP: A Modern Alternative to JavaScript Fatigue](/blog/rediscovering-php-a-modern-alternative-to-javascript-fatigue)
-- [Rolling my own pastebin](/blog/rolling-my-own-pastebin)
-- [Using n8n to create a simple Mastodon bot](/blog/using-n8n-to-create-a-simple-mastodon-bot)
+- [Building a Pastebin in Go for Fun and Profit](https://watzon.tech/blog/building-a-pastebin-in-go-for-fun-and-profit)
+- [Meet PostPilot](https://watzon.tech/blog/meet-postpilot)
+- [Rediscovering PHP: A Modern Alternative to JavaScript Fatigue](https://watzon.tech/blog/rediscovering-php-a-modern-alternative-to-javascript-fatigue)
+- [Rolling my own pastebin](https://watzon.tech/blog/rolling-my-own-pastebin)
+- [Using n8n to create a simple Mastodon bot](https://watzon.tech/blog/using-n8n-to-create-a-simple-mastodon-bot)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 Commit History
