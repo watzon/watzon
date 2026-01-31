@@ -1,49 +1,59 @@
-<div align="center">
-  <h1>👋 Hey, I'm Chris Watson</h1>
-  <p>
-    <a href="https://watzon.tech">Website</a> •
-    <a href="https://watzon.tech/resume">Resume</a> •
-    <a href="https://watzon.tech/blog">Blog</a>
-  </p>
-  <h3>Currently Looking for New Opportunities!</h3>
-</div>
+# Hi, I'm Chris 👋
 
-## 🛠️ Current Tech Stack
-<p>
-  <a href="https://golang.org/"><img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="https://svelte.dev/"><img src="https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" /></a>
-  <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" /></a>
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
-</p>
+🛠️ **Software Engineer** | 🔧 **Developer Tools** | 🚀 **Performance Obsessed**
 
-## 🤝 Let's Connect
-<p>
-  <a href="https://watzon.tech">
-    <img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
-  </a>
-  <a href="mailto:cawatson1993@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://bsky.app/profile/watzon2.bsky.social">
-    <img src="https://img.shields.io/badge/-Bluesky-00A3E0?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
-  </a>
-  <a href="https://www.tumblr.com/byte-my-ascii">
-    <img src="https://img.shields.io/badge/-Tumblr-36465D?style=for-the-badge&logo=tumblr&logoColor=white" alt="Tumblr" />
-  </a>
-  <a href="https://www.linkedin.com/in/watzon1993/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Crystal](https://img.shields.io/badge/-Crystal-000000?style=flat-square&logo=crystal&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building a Pastebin in Go for Fun and Profit](https://watzon.tech/blog/building-a-pastebin-in-go-for-fun-and-profit)
-- [Meet PostPilot](https://watzon.tech/blog/meet-postpilot)
-- [Rediscovering PHP: A Modern Alternative to JavaScript Fatigue](https://watzon.tech/blog/rediscovering-php-a-modern-alternative-to-javascript-fatigue)
-- [Rolling my own pastebin](https://watzon.tech/blog/rolling-my-own-pastebin)
-- [Using n8n to create a simple Mastodon bot](https://watzon.tech/blog/using-n8n-to-create-a-simple-mastodon-bot)
-<!-- BLOG-POST-LIST:END -->
+> Building robust developer tools and exploring language architecture. I focus on simplicity, performance, and developer experience.
 
-## 📊 Commit History
-![Commit History](https://raw.githubusercontent.com/watzon/watzon/refs/heads/master/profile-3d-contrib/profile-night-rainbow.svg)
+## Current Projects
+
+### SaaS
+- 🧈 **[Butterbase](https://butterbase.app)** - Kitchen management platform for home bakers
+- 💬 **[Disforum](https://disforum.me)** - Make Discord forums searchable on the web
+- 🏠 **[Homelytics](https://usehomelytics.com)** - Smart home analytics and insights
+
+### Developer Tools
+- 🎙️ **[Pindrop](https://github.com/watzon/pindrop)** - Native macOS menu bar dictation using local WhisperKit
+- ⚡ **[Alyx](https://github.com/watzon/alyx)** - Portable, polyglot Backend-as-a-Service (BaaS) in Go
+- 🎨 **[goshot](https://github.com/watzon/goshot)** - Create beautiful code screenshots with customizable styles
+- 🎯 **[cursor-linux-installer](https://github.com/watzon/cursor-linux-installer)** - Installing Cursor on Linux, done right
+- 🚀 **[0x45](https://github.com/watzon/0x45)** - High-performance file sharing & URL shortening with S3 support
+- 🔒 **[fbmdob](https://github.com/watzon/fbmdob)** - Facebook image Metadata Obfuscation server
+- 🕷️ **[arachnid](https://github.com/watzon/arachnid)** - Powerful web scraping framework for Crystal
+- 🤖 **[n8n-nodes-perplexity](https://github.com/watzon/n8n-nodes-perplexity)** - Perplexity AI integration for n8n
+
+## What I'm Doing
+
+- **Building SaaS** - Shipping tools that solve real problems (Butterbase, Disforum, Homelytics)
+- **Exploring languages** - Deep dives into Go, TypeScript, Python, Swift, and Crystal
+- **Developer experience** - Crafting CLI tools and utilities that feel right
+- **Language architecture** - Thinking about how languages work and how they could work better
+
+## Writing
+
+I write about building things at [watzon.tech/blog](https://watzon.tech/blog)
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/watzon)
+
+## Connect
+
+[![Website](https://img.shields.io/badge/-watzon.tech-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://watzon.tech)
+[![Twitter](https://img.shields.io/badge/-@_watzon-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_watzon)
+[![Bluesky](https://img.shields.io/badge/-watzon.tech-00A8E8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/watzon.tech)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/watzon)
+[![Email](https://img.shields.io/badge/-chris@watzon.tech-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chris@watzon.tech)
+
+---
+
+💬 *Simplicity. Performance. Developer Experience.*
